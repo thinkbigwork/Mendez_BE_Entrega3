@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Manzana",
+        "description": "Manzana roja grande",
+        "price": 1500,
+        "thumbnail": "../archivo1.jpg",
+        "code": "69jcjs",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "title": "Pera",
+        "description": "Pera de Israel",
+        "price": 1200,
+        "thumbnail": "../archivo2.jpg",
+        "code": "zl3ujy",
+        "stock": 38
+    },
+    {
+        "id": 3,
+        "title": "Uva",
+        "description": "Uva blanca",
+        "price": 1800,
+        "thumbnail": "../archivo3.jpg",
+        "code": "afktg2",
+        "stock": 457
+    },
+    {
+        "id": 4,
+        "title": "Melon",
+        "description": "Melon amarillo",
+        "price": 1530,
+        "thumbnail": "../archivo4.jpg",
+        "code": "l259ck",
+        "stock": 11
+    },
+    {
+        "id": 5,
+        "title": "Banana",
+        "description": "Banana ecuador",
+        "price": 1900,
+        "thumbnail": "../archivo1.jpg",
+        "code": "69jcjs",
+        "stock": 540
+    },
+    {
+        "id": 6,
+        "title": "Sandia",
+        "description": "Sandia San Juan",
+        "price": 400,
+        "thumbnail": "../archivo2.jpg",
+        "code": "zl3ujy",
+        "stock": 48
+    },
+    {
+        "id": 7,
+        "title": "Frutilla",
+        "description": "Frutilla especial",
+        "price": 31800,
+        "thumbnail": "../archivo3.jpg",
+        "code": "afktg2",
+        "stock": 4557
+    },
+    {
+        "id": 8,
+        "title": "Naranja",
+        "description": "Naranja de ombligo",
+        "price": 1030,
+        "thumbnail": "../archivo4.jpg",
+        "code": "l259ck",
+        "stock": 131
+    },
+    {
+        "id": 9,
+        "title": "Frambuesa",
+        "description": "Frambuesa patagonica",
+        "price": 3600,
+        "thumbnail": "../archivo3.jpg",
+        "code": "afktg2",
+        "stock": 235
+    },
+    {
+        "id": 10,
+        "title": "Mandarina",
+        "description": "Mandarina Entre Rios",
+        "price": 75,
+        "thumbnail": "../archivo4.jpg",
+        "code": "l259ck",
+        "stock": 9
+    }
+]
